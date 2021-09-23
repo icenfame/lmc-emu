@@ -15,7 +15,7 @@ Little Man Computer emulator
 * HLT - Halt program
 
 #### Example (A + B program):
-```
+```asm
 ; A + B
 IN
 STA 0x0A
