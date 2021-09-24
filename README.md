@@ -6,7 +6,6 @@ Little Man Computer emulator
 * OUT - Output to user
 * ADD - Add memory content to accumulator
 * SUB - Subtract memory content from accumulator
-* LDI - Load immediate number to accumulator
 * LDA - Load to accumulator content from memory
 * STA - Store content from accumulator to memory
 * JMP - Unconditional jump to given address
@@ -14,7 +13,7 @@ Little Man Computer emulator
 * JGZ - Jump if accumulator greater than zero
 * HLT - Halt program
 
-#### Example (A + B program):
+#### Example (A + B):
 ```asm
 ; A + B
 IN
