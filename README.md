@@ -1,7 +1,6 @@
-# lmc-emu
-Little Man Computer emulator
+# Little Man Computer emulator
 
-#### Available instructions:
+### Available instructions:
 * IN - Input from user
 * OUT - Output to user
 * ADD - Add memory content to accumulator
@@ -13,7 +12,7 @@ Little Man Computer emulator
 * JGZ - Jump if accumulator greater than zero
 * HLT - Halt program
 
-#### Example (A + B):
+### Example (A + B):
 ```asm
 ; A + B
 IN
